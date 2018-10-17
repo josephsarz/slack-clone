@@ -3,4 +3,12 @@
   <color name="colorPrimary">#008577</color>
   <color name="colorPrimaryDark">#00574B</color>
   <color name="colorAccent">#D81B60</color>
+  
+  /* slack colors
+  #6ecadc
+  #e9a820
+  #e01563
+  #3eb991
+  */
+  
 </resources>
